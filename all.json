@@ -1,0 +1,66 @@
+[
+  {
+    "location": "North Carolina",
+    "title": "Wrightsville Beach 1",
+    "url_1080p": "https://www.surfchex.com/hls/wb3/video1_stream.m3u8",
+    "url_1080p_hdr": "https://www.surfchex.com/hls/wb3/video1_stream.m3u8",
+    "url_4k": "https://www.surfchex.com/hls/wb3/video1_stream.m3u8",
+    "url_4k_hdr": "https://www.surfchex.com/hls/wb3/video1_stream.m3u8"
+  },
+  {
+    "location": "North Carolina",
+    "title": "Wrightsville Beach 2",
+    "url_1080p": "https://www.surfchex.com/hls/bt/video1_stream.m3u8",
+    "url_1080p_hdr": "https://www.surfchex.com/hls/bt/video1_stream.m3u8",
+    "url_4k": "https://www.surfchex.com/hls/bt/video1_stream.m3u8",
+    "url_4k_hdr": "https://www.surfchex.com/hls/bt/video1_stream.m3u8"
+  },
+  {
+    "location": "North Carolina",
+    "title": "Wrightsville Beach 3",
+    "url_1080p": "https://www.surfchex.com/hls/bwg/video1_stream.m3u8",
+    "url_1080p_hdr": "https://www.surfchex.com/hls/bwg/video1_stream.m3u8",
+    "url_4k": "https://www.surfchex.com/hls/bwg/video1_stream.m3u8",
+    "url_4k_hdr": "https://www.surfchex.com/hls/bwg/video1_stream.m3u8"
+  },
+  {
+    "location": "North Carolina",
+    "title": "Carolina Beach 1",
+    "url_1080p": "https://www.surfchex.com/hls/cb/video1_stream.m3u8",
+    "url_1080p_hdr": "https://www.surfchex.com/hls/cb/video1_stream.m3u8",
+    "url_4k": "https://www.surfchex.com/hls/cb/video1_stream.m3u8",
+    "url_4k_hdr": "https://www.surfchex.com/hls/cb/video1_stream.m3u8"
+  },
+  {
+    "location": "North Carolina",
+    "title": "Carolina Beach 2",
+    "url_1080p": "https://www.surfchex.com/hls/cb2/video1_stream.m3u8",
+    "url_1080p_hdr": "https://www.surfchex.com/hls/cb2/video1_stream.m3u8",
+    "url_4k": "https://www.surfchex.com/hls/cb2/video1_stream.m3u8",
+    "url_4k_hdr": "https://www.surfchex.com/hls/cb2/video1_stream.m3u8"
+  },
+  {
+    "location": "North Carolina",
+    "title": "Kure Beach 1",
+    "url_1080p": "https://www.surfchex.com/hls/kb/video1_stream.m3u8",
+    "url_1080p_hdr": "https://www.surfchex.com/hls/kb/video1_stream.m3u8",
+    "url_4k": "https://www.surfchex.com/hls/kb/video1_stream.m3u8",
+    "url_4k_hdr": "https://www.surfchex.com/hls/kb/video1_stream.m3u8"
+  },
+  {
+    "location": "North Carolina",
+    "title": "Kure Beach 2",
+    "url_1080p": "https://www.surfchex.com/hls/kbstreet/video1_stream.m3u8",
+    "url_1080p_hdr": "https://www.surfchex.com/hls/kbstreet/video1_stream.m3u8",
+    "url_4k": "https://www.surfchex.com/hls/kbstreet/video1_stream.m3u8",
+    "url_4k_hdr": "https://www.surfchex.com/hls/kbstreet/video1_stream.m3u8"
+  },
+  {
+    "location": "North Carolina",
+    "title": "Downtown Wilmington",
+    "url_1080p": "https://www.surfchex.com/hls/dw/video1_stream.m3u8",
+    "url_1080p_hdr": "https://www.surfchex.com/hls/dw/video1_stream.m3u8",
+    "url_4k": "https://www.surfchex.com/hls/dw/video1_stream.m3u8",
+    "url_4k_hdr": "https://www.surfchex.com/hls/dw/video1_stream.m3u8"
+  }
+]
